@@ -1,0 +1,6 @@
+{
+  "name": "Dengue Awareness & Action Portal - Axiom Youth Society",
+  "description": "বাংলাদেশে ডাবের খোসা, টায়ার ও ছাদের টবে ডেঙ্গু মশার বিস্তার রোধে অ্যানিমেটেড ভিডিও স্ক্রিপ্ট, প্রতিরোধ গাইডলাইন, স্বেচ্ছাসেবক নেটওয়ার্ক এবং ইন্টারঅ্যাক্টিভ ডেঙ্গু ফাইটার গেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
